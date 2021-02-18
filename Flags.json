@@ -1,6 +1,6 @@
 {
-  "debug_mode" = 0,
-  "debug_strict" = false,
-  "debug_benchmark" = true,
-  "use_fastmath" = false
+  "debug_mode":0,
+  "debug_strict":false,
+  "debug_benchmark":true,
+  "use_fastmath":false
 }
