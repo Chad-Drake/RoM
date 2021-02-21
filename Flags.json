@@ -1,6 +1,4 @@
 {
-  "debug_mode":0,
+  "parallel_execution":false,
   "debug_strict":false,
-  "debug_benchmark":true,
-  "use_fastmath":false
 }
